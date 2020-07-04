@@ -30,10 +30,10 @@ void printArray(int arr[], int n){
 }
 
 int main(){
-    int arr[] = {1, 2, 3, 4, 5, 6, 7};
+    int arr[] = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20};
     int n = sizeof(arr)/sizeof(arr[0]);
 
-    rotateLeft(arr, 2, n);
+    rotateLeft(arr, 3, n);
     printArray(arr, n );
 
 }
