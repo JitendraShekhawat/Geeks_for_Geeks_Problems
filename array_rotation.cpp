@@ -5,7 +5,7 @@
 using namespace std;
 #include<math.h>
 
-//Reverse function 
+//Reverse function defination
 void reverse( int arr[], int start, int end){
 
     //ratating array using swaping method 
