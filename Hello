@@ -1,8 +1,0 @@
-#include<iostream>
-using namesapce std;
-
-int main(){
-    printf("Hello Geeks for Geeks");
-    
-    return 0;
-}
